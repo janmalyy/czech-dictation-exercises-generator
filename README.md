@@ -10,4 +10,5 @@ Czech dictation exercice, generative pretrained transformator, large language mo
 
 
 Text of thesis and supervisor's and oponent's reviews available here: https://is.muni.cz/th/a9iy8/
+
 Webpage available here: https://nlp.fi.muni.cz/projekty/generovani_diktatu/app.cgi
