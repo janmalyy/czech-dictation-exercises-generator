@@ -1,0 +1,14 @@
+zarůstá divokým býlím	roste býlí	1
+trhat rybíz	vyrobit rybízovou marmeládu	1
+kobyla s hříbětem	kobyla ve stáji	1
+babička	babiččin	0
+sbírat bylinky	bylinková zahrádka	bylinný sirup	nasbírat bylinky	0
+použít nabyté zkušenosti	1
+dobytčata	dobytek	dobytek se pásl	1
+obyčejný život na vsi	obyčejně vstává v	0
+skromné živobytí	1
+pobyt na čerstvém vzduchu	0
+černobílý pes	0
+býk uvázaný u	býček uvázaný u	0
+zbylý	zbývající	přebývající	0
+pomalu ubíhá čas	1

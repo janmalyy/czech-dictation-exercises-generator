@@ -1,0 +1,31 @@
+byt	obyčejný byt	nabídka pronájmu bytu	0
+obyvatel	obyvatelstvo	0
+rozbitý nábytek	přebytečný nábytek	0
+bydlet	0
+okolí mého bydliště	v místě bydliště	0
+obytná část domu	obytné podkroví	0
+bytová jednotka	0
+ubytování	0
+ubytovat	0
+blízkost lidských obydlí	dočasné obydlí	0
+příbytek	1
+zabydlet se v	1
+je obydlený	neobydlený sousední byt	1
+moje spolubydlící	1
+hřbitov za domem	0
+bytovka na kraji města	1
+host ubytovaný v	být ubytovaný v	1
+líbí se mu obývák	líbí se mu obývací pokoj	0
+působí vybydleně	vypadá vybydleně	0
+hbitě pomoci s	1
+krabice na stěhování	0
+vyrobit si poličku	0
+sbírat prádlo	posbírat prádlo	0
+nezbytná součást bytu	1
+ledabyle uspořádaný	1
+adresa trvalého pobytu	dočasný pobyt	0
+bílé stěny	0
+rybičky v akváriu	1
+zatlouct hřebík	0
+dřevěný kabinet po babičce	0
+vybírat si kde	0

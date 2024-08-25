@@ -1,0 +1,14 @@
+plýtvat jídlem	plýtvání jídlem	1
+nejíst olivy	1
+vzlykat	bylo slyšet vzlykání	1
+ztratit trpělivost	trpělivě vysvětlovat	0
+polykat sliny	polykat	0
+veliký	příliš	příliš veliký	0
+polít se	vylít na sebe	1
+na talíři	0
+slíbit, že	dát slib	0
+vyplivnout sousto	1
+pelyňkový čaj	čaj z pelyňku	1
+se sbíhaly sliny na jazyku	1
+rozplývat se nad	rozplývá se na jazyku	0
+uklízet	uklidit	0

@@ -1,0 +1,18 @@
+umýt umyvadlo	0
+vysmýčit pavučiny	1
+vymýtit špínu	1
+myš	0
+zamést mrtvý hmyz	0
+vyměnit mýdlo	použít mýdlo	0
+vyklidit nádobí z myčky	1
+se prosmýknout okolo	se prosmýknout kolem	1
+vymést komín	0
+s úmyslem	má smysl	0
+umístit	0
+odmítat myšlenku, že	0
+rozdmýchat oheň v krbu	1
+roztřídit smíchané	1
+vzpomínky na	vzpomínky na minulost	0
+míra nepořádku překročila	0
+podmínka	0
+myslet si	1

@@ -1,0 +1,11 @@
+létali lýkožrouti	lýkožrout napadá stromy	lýkožrouti likvidují	0
+liška	stopy lišky	0
+roste pelyněk	1
+se neslyšně pohybovat	1
+straka sebrala blýskající se	se blýskat na slunci	1
+listí na zemi	listí na stromech	0
+líčit pasti na	0
+klid	poklidný den	0
+vyplynulo, že	jak vyplynulo z	0
+nebyli žádní lidé	0
+rozhlížet se	prohlížet si	0

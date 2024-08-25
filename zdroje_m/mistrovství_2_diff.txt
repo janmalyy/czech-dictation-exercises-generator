@@ -1,0 +1,14 @@
+mistrovství 	provést mistrovský kousek	0
+dostat smyk	smýkat volantem	1
+oznámit nominaci	oznámit výsledky	0
+zamířit si to	0
+minout	minout odbočku	0
+udělat omyl	zmýlit se	0
+zbývaly minuty do konce	0
+myslet si na	myslit si na	myslet	zamýšlet	1
+nemělo smysl pokračovat	0
+místo	na druhém místě	0
+mimořádně dobrý	0
+závodu dominoval	0
+usmívat se	0
+pomalý jako hlemýžď	1

@@ -1,0 +1,14 @@
+bývalí nájemníci nechali	jeho obyvatelé odešli	0
+vybitý telefon	vybitý mobil	1
+žít v bídě	0
+rozbitý nábytek	rozbité okno	0
+ledabyle uspořádaný	ledabyle naházený	1
+působí vybydleně	vypadá vybydleně	0
+sousední neobydlený byt	1
+nabídka	0
+pouze bílé stěny	0
+rozházené krabice	0
+byl nebývalý nepořádek	byl neobyčejný nepořádek	0
+není žádný blahobyt	1
+nelíbí se	0
+najednou zbystřit sluch	1

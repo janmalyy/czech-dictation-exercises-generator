@@ -1,0 +1,18 @@
+dobýt hrad	dobýt cizí území	dobytí	0
+oslabit protivníka	oslabit nepřítele	využít slabiny nepřítele	0
+vydobýt si slávu	vydobýt si uznání	1
+pobít nepřátele	probít se	1
+bít se za	bít se s	0
+zbystřit smysly	bystře rozhodnout	1
+podrobit si	0
+bitevní vřava	bitva	1
+nabyté zkušenosti použil	1
+dobyvatelé	1
+nabíjet dělo	nabít dělo	1
+hbitě tasit zbraň	hbitě tasit meč	1
+nabírat do armády	sbírat se ze země	0
+zbytek vojska	zbytek vojáků	zbývající vojáci	0
+nepřátel jako by neubývalo	s přibývající únavou	s ubývajícími silami	0
+s neobyčejným soustředěním	0
+pohřbít padlé	0
+obyvatelstvo bylo	0

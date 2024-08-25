@@ -1,0 +1,14 @@
+plynová lampa	plynové lampy	0
+temná postava splývala se zdí	0
+na sídlišti	tmavé sídliště	na ulici	v uličkách města	0
+bylo slyšet ozvěnu kroků	nic neslyšet	0
+přiblížit se	být už blízko	0
+zablýsklo se mu v očích	1
+obejít hlídače	obejít hlídku	nebyl hlídaný	0
+s nelíčeným údivem zjistil, že	1
+policie dorazila	policie zjistila, že	0
+ztratit trpělivost	0
+si natrhl kalhoty na lýtku	1
+jak vyplynulo z vyšetřování	0
+neplýtvali časem	1
+ovlivnit	být ovlivněný	0

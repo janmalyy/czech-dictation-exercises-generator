@@ -1,0 +1,9 @@
+sysel	1
+sypké podloží	vítr přesýpal písek	1
+masiv hor na obzoru	0
+usychají kvůli nedostatku vody	studny vysychají	1
+zasyčel had	1
+minimální osídlení	0
+žádný mobilní signál	0
+Sýrie	0
+přežijí jen ti nejsilnější	0

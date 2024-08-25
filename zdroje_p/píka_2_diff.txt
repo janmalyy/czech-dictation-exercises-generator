@@ -1,0 +1,11 @@
+kopí	píka	pistole	1
+žádný přepych	1
+slíbil pytel peněz	0
+kopyto	zvuky klapajících kopyt	0
+napínavý souboj	1
+písek	0
+špinavý	0
+muset podpírat	1
+dopis	0
+klopýtnul	1
+pyšně se rozhlížet	1

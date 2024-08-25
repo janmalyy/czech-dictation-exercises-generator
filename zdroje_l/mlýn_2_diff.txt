@@ -1,0 +1,14 @@
+mlýn	mlýnský kámen	mlynář	0
+mlít	pomlít	namlít	umlít	1
+slyšet	0
+čas plyne	voda plyne	uplynulo hodně času než	0
+kvalitní mouka	0
+na konci ulice	0
+blízký	bylo to blízko	0
+líbit	oblíbený	0
+kulatý obličej	vlídný obličej	0
+na lysé hlavě	1
+byl listopad	blížil se listopad	padalo listí ze stromů	0
+lípa u cesty	0
+bylinková zahrádka	1
+sklizeň	sklidit	0
